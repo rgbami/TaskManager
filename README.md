@@ -4,6 +4,8 @@
 
 A simple and intuitive Task Manager application developed in Java, designed for macOS users to efficiently manage their tasks.
 
+<img width="543" alt="TaskManagerPreview" src="https://github.com/user-attachments/assets/1ff03d79-a841-4c6f-a694-d5a9aa79874f">
+
 ## Features
 
 - **Add Tasks**: Easily add new tasks with descriptions.
